@@ -17,7 +17,7 @@ We propose a novel framework for automatic ultrasound report generation, leverag
 - Run ./KMVE_RG/my_train.py to train the SGF.
 
 ## Data
-The ultrasound dataset is available at https://drive.google.com/file/d/11Aw3_ETNBtfT1W7eWifbsaexFqSsM5BB/view?usp=drive_link.
+The ultrasound dataset is available at [https://drive.google.com/file/d/11Aw3_ETNBtfT1W7eWifbsaexFqSsM5BB/view?usp=drive_link](https://drive.google.com/file/d/1-Fz9J58ntoO8ZoAEKzm3fxm4jvOWrAuz/view?usp=drive_link).
 To evaluate the performance of the proposed framework on different types of ultrasound datasets, we collected three different datasets of the breast, thyroid and liver. Specifically, the breast dataset consists of 3521 patients, the thyroid dataset consists of 2474 patients, and the liver dataset consists of 1395 patients.
 
 ![image](https://github.com/LijunRio/Ultrasound-Report-Generation/assets/91274335/d3bb3c79-7ad9-4cfa-92be-07a63734b4da)
