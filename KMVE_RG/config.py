@@ -8,6 +8,7 @@ config.distiller_num = 5 # liver:18; Mamary:18; Thyroid:5
 config.jieba_dir = 'E:/Captionv0/Code/SGF/Data/key_technical_words.txt'
 config.image_dir = 'E:/Datasets/Ultrasound/Data/Thyroid_report'
 config.ann_path = 'E:/Datasets/Ultrasound/Data/new_Thyroid2.json'
+config.technical_word = ''E:/Captionv0/Code/SGF/Data/key_technical_words.txt''
 
 config.dict_pth = ' '
 
