@@ -1,7 +1,8 @@
 import json
 from collections import Counter
+from config import config as args
 import jieba
-jieba.load_userdict('E:\Captionv0\Code\SGF\Data\key_technical_words.txt')
+jieba.load_userdict(args.technical_word)
 
 class Tokenizer(object):
     def __init__(self, args):
