@@ -32,5 +32,15 @@ To evaluate the performance of the proposed framework on different types of ultr
   organization={Springer}
 }
 
+@misc{li2024ultrasoundreportgenerationcrossmodality,
+      title={Ultrasound Report Generation with Cross-Modality Feature Alignment via Unsupervised Guidance}, 
+      author={Jun Li and Tongkun Su and Baoliang Zhao and Faqin Lv and Qiong Wang and Nassir Navab and Ying Hu and Zhongliang Jiang},
+      year={2024},
+      eprint={2406.00644},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2406.00644}, 
+}
+
 ## Acknowledgement
 This work was supported in part by Key-Area Research and Development Program of Guangdong Province (No.2020B0909020002), National Natural Science Foundation of China (Grant No. 62003330), Shenzhen Fundamental Research Funds (Grant No. JCYJ20200109114233670, JCYJ20190807170407391), and Guangdong Provincial Key Laboratory of Computer Vision and Virtual Reality Technology, Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, Shenzhen, China. This work was also supported by Guangdong-Hong Kong-Macao Joint Laboratory of Human-Machine Intelligence-Synergy Systems, Shenzhen Institute of Advanced Technology.
